@@ -1,0 +1,19 @@
+dicionario_colunas = {
+    "Invoice ID": "Identificador único da fatura/venda.",
+    "Branch": "Filial do supermercado onde a venda ocorreu (A, B ou C).",
+    "City": "Cidade em que a filial está localizada.",
+    "Customer type": "Tipo de cliente (por exemplo, Member ou Normal).",
+    "Gender": "Gênero declarado do cliente (Male/Female).",
+    "Product line": "Linha ou categoria de produtos (Bebidas, Saúde, etc.).",
+    "Unit price": "Preço unitário de cada item comprado.",
+    "Quantity": "Quantidade de unidades compradas naquele item.",
+    "Tax 5%": "Valor do imposto de 5% aplicado sobre a compra.",
+    "Total": "Valor total da compra (itens + imposto).",
+    "Date": "Data em que a compra foi realizada.",
+    "Time": "Horário em que a compra foi realizada.",
+    "Payment": "Forma de pagamento (cash, credit card, ewallet).",
+    "cogs": "Custo dos produtos vendidos (sem imposto).",
+    "gross margin percentage": "Percentual de margem bruta da venda.",
+    "gross income": "Lucro bruto obtido na venda.",
+    "Rating": "Avaliação do cliente para a experiência de compra (1 a 10)."
+}

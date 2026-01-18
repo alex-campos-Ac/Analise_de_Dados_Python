@@ -1,0 +1,21 @@
+order_id,customer_id,product,category,price,quantity,order_date,payment_method
+O0001,C001,Watch,Accessories,44586,4,2025-01-10,Credit Card
+O0002,C002,Watch,Accessories,3057,2,2025-01-11,Debit Card
+O0003,C003,Laptop,Fashion,32735,1,2025-01-12,PayPal
+O0004,C004,Mobile,Fashion,21637,2,2025-01-13,Cash
+O0005,C005,Mobile,Electronics,26246,1,2025-01-14,PayPal
+O0006,C006,Watch,Fashion,48946,4,2025-01-15,Cash
+O0007,C007,Laptop,Fashion,30358,3,2025-01-16,Cash
+O0008,C008,Shoes,Accessories,6335,4,2025-01-17,Debit Card
+O0009,C009,Laptop,Fashion,49415,1,2025-01-18,Cash
+O0010,C010,Shoes,Fashion,39828,1,2025-01-19,Credit Card
+O0011,C011,T-shirt,Electronics,5265,1,2025-01-20,Cash
+O0012,C012,Shoes,Fashion,4028,3,2025-01-21,PayPal
+O0013,C013,Mobile,Fashion,4963,1,2025-01-22,PayPal
+O0014,C014,T-shirt,Electronics,23053,3,2025-01-23,Credit Card
+O0015,C015,Laptop,Electronics,35330,2,2025-01-24,Cash
+O0016,C016,Watch,Electronics,25271,3,2025-01-25,PayPal
+O0017,C017,Shoes,Fashion,8435,2,2025-01-26,Debit Card
+O0018,C018,Mobile,Fashion,36059,1,2025-01-27,PayPal
+O0019,C019,Laptop,Accessories,38583,1,2025-01-28,Debit Card
+O0020,C020,T-shirt,Fashion,27851,1,2025-01-29,PayPal
