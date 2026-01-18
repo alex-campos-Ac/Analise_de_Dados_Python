@@ -14,11 +14,11 @@ Este projeto simula a rotina de um analista de dados em um pequeno e‑commerce.
 
 
 
-\- Entender o comportamento das vendas ao longo do tempo.  
+- Entender o comportamento das vendas ao longo do tempo.  
 
-\- Identificar quais categorias e produtos mais geram receita.  
+- Identificar quais categorias e produtos mais geram receita.  
 
-\- Avaliar ticket médio, quantidade média de itens por pedido e formas de pagamento mais utilizadas.\[file:333]
+- Avaliar ticket médio, quantidade média de itens por pedido e formas de pagamento mais utilizadas.\[file:333]
 
 
 
@@ -48,7 +48,7 @@ Este projeto simula a rotina de um analista de dados em um pequeno e‑commerce.
 
 
 
-\## 🧠 Insights e uso do projeto
+## 🧠 Insights e uso do projeto
 
 
 
