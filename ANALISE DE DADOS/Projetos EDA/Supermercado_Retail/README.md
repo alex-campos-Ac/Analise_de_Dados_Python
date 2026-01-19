@@ -31,4 +31,4 @@ Este tipo de análise ajuda a responder perguntas como:
 - Qual grupo de idade é mais valioso para o negócio?  
 - Existem períodos do ano em que alguma categoria dispara em vendas?  
 
-O projeto é ideal para praticar **pandas, groupby, métricas de negócio e visualizações simples** focadas em varejo/supermercado.
+Neste Projeto foi praticado **pandas, groupby, métricas de negócio e visualizações simples** focadas em varejo/supermercado.
